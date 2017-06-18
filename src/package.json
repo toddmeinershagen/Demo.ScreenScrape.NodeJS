@@ -1,0 +1,24 @@
+{
+  "name": "demo.screenscrape.nodejs",
+  "version": "0.1.0",
+  "description": "A demo of screen scraping the NodeJS way.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toddmeinershagen/Demo.ScreenScrape.NodeJS.git"
+  },
+  "author": "Todd Meinershagen",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/toddmeinershagen/Demo.ScreenScrape.NodeJS/issues"
+  },
+  "homepage": "https://github.com/toddmeinershagen/Demo.ScreenScrape.NodeJS#readme",
+  "dependencies": {
+    "express": "latest",
+    "request": "latest",
+    "cheerio": "latest"
+  }
+}
